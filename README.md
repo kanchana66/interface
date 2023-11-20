@@ -41,3 +41,12 @@ These instructions will help you set up and run SecureGuardPro on your local mac
    ```bash
    python interface-stop.py
    ```
+
+
+<p  align="center">
+<img src="https://github.com/kanchana66/interface/blob/main/Design/i-1.png" />
+</p>
+
+<p  align="center">
+<img src="https://github.com/kanchana66/interface/blob/main/Design/i-2.png" />
+</p>
